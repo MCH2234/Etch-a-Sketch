@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    border:3px solid;
+    flex-direction: column;
+    height: 500px;
+    width: 960px;
+    margin:auto;
+
+}
+#ask{
+    display: block;
+    margin:auto;
+    margin-bottom: 25px;
+}
